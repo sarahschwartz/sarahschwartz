@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @sarahschwartz
 - ✨ I’m interested in web3
-- 🌴 I’m currently learning Sway & Rust
-- 🧜🏻‍♀️ I’m looking to collaborate on projects built on Fuel
 - 🐦 Follow me on Twitter @schwartzswartz & on Lens @schwartz.lens
